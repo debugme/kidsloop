@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "signIn": "Sign in",
+    "forgotPassword": "Forgot password",
+    "createAccount": "Create account",
+    "forgotYourPassword": "Forgot your password?",
+    "createAnAccount": "Create an account",
+    "goBack": "Go back",
+    "emailOrPhone": "Email or Phone",
+    "password": "Password",
+    "submit": "Submit",
+    "help": "Help",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "logo": "logo",
+    "light": "light",
+    "dark": "dark"
+  }
+}

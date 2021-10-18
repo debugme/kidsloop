@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "signIn": "S'identifier",
+    "forgotPassword": "Mot de passe oublié",
+    "createAccount": "Créer un compte",
+    "forgotYourPassword": "Mot de passe oublié?",
+    "createAnAccount": "Créer un compte",
+    "goBack": "Retourner",
+    "emailOrPhone": "Email ou téléphone",
+    "password": "Mot de passe",
+    "submit": "Soumettre",
+    "help": "Aider",
+    "privacy": "Intimité",
+    "terms": "Termes",
+    "logo": "logo",
+    "light": "légère",
+    "dark": "foncée"
+  }
+}
